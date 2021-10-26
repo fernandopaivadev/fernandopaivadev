@@ -10,7 +10,7 @@
 - 📫 How to reach me: fernandopaivaec@gmail.com
 - 😄 Pronouns: Him/His
 
-# Languages and Tools:
+### Languages and Tools
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -29,7 +29,8 @@
  <a href = "https://app.rocketseat.com.br/me/fernandopaivaec"><img src="https://img.shields.io/badge/Rocketseat-Blue?style=for-the-badge&logoColor=blue" target="_blank"></a>
 </div>
 
-<br>
+### Stats
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandopaivaec&count_private=true&show_icons=true&theme=dracula" target="_blank"></a> 
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoPaivaEC&layout=compact&langs_count=7&theme=dracula" target="_blank"></a> 
