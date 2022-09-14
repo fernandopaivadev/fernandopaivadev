@@ -17,7 +17,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/pt-br" target="_blank"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
