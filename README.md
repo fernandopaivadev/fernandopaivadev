@@ -4,8 +4,8 @@
 **FernandoPaivaEC/fernandopaivaec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning Docker and AWS
-- 💬 Ask me about [Git, Node, React, JavaScript, TypeScript, Arduino]
+- 🌱 I’m currently learning more about AWS and cloud infrastructure
+- 💬 Ask me about [Git, Node, JavaScript, TypeScript, Arduino]
 
 ### Languages and Tools
 <p align="left"> 
