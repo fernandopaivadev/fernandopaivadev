@@ -4,7 +4,9 @@
 **FernandoPaivaEC/fernandopaivaec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning more about AWS and cloud infrastructure
+- 🌱 I’m currently learning:
+  - AWS and cloud infrastructure
+  - Go Programming Language
 - 💬 Ask me about [Git, Node, JavaScript, TypeScript, Arduino]
 
 ### Languages and Tools
@@ -19,6 +21,9 @@
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
+<a href="https://go.dev/" target="_blank"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="nodejs" width="40" height="40"/> </a>
+</p>
+
 
 ### Contacts
 <div>  
