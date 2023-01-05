@@ -7,7 +7,10 @@
 - 🌱 I’m currently learning:
   - AWS and cloud infrastructure
   - Go Programming Language
+  - Go Fiber framework
 - 💬 Ask me about [Git, Node, JavaScript, TypeScript, Arduino]
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 ### Languages and Tools
 <p align="left"> 
