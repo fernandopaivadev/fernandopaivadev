@@ -5,12 +5,12 @@
 -->
 
 - 🌱 I’m currently learning:
-  - AWS and cloud infrastructure
+  - AWS Cloud Infrastructure
   - Go Programming Language
-  - Go Fiber framework
-- 💬 Ask me about [Git, Node, JavaScript, TypeScript, Arduino]
+  - Go Fiber Framework
+- 💬 Ask me about [AWS, Git, Node, JavaScript, TypeScript, Arduino, Eletronics, Microcontrollers, Go, Fiber Web Framework]
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=flat)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 ### Languages and Tools
 <p align="left"> 
