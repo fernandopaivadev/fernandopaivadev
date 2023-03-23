@@ -11,7 +11,7 @@
 - 💬 Ask me about [AWS, Git, Node, JavaScript, TypeScript, Arduino, Eletronics, Microcontrollers, Go, Fiber Web Framework]
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-[![wakatime](https://wakatime.com/badge/user/a0fb8480-1a8e-4a8f-8ba1-bd7fe0621904.svg)](https://wakatime.com/@a0fb8480-1a8e-4a8f-8ba1-bd7fe0621904)
+![](https://wakatime.com/badge/user/a0fb8480-1a8e-4a8f-8ba1-bd7fe0621904.svg)
 
 ### Languages and Tools
 <p align="left"> 
