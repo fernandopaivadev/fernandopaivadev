@@ -1,16 +1,30 @@
-### Hi there, I'm Fernando Paiva 👋
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
+### Hey there, I'm Fernando Paiva 👋
 
 <!--
 **FernandoPaivaEC/fernandopaivaec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - 🌱 I’m currently learning:
-  - AWS Cloud Infrastructure
+  - Google Cloud Platform
   - Go Programming Language
-  - Go Fiber Framework
-- 💬 Ask me about [AWS, Git, Node, JavaScript, TypeScript, Arduino, Eletronics, Microcontrollers, Go, Fiber Web Framework]
-
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+  - Echo Fiber Framework
+- 💬 Ask me about
+  - Git
+  - Nodejs
+  - Javascript
+  - Typescript
+  - Arduino
+  - Eletronics
+  - ESP32 and AVR microcontrollers
+  - Go (golang)
+  - Echo Web Framework
+  - Wails - Go framework for desktop apps
+  - NGINX
+  - AWS Lambda
+  - AWS EC2
+  - Google Cloud Run
 
 ### Languages and Tools
 <p align="left"> 
@@ -32,12 +46,11 @@
 <div>  
   <a href="https://www.linkedin.com/in/fernando-paiva-972b97185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:fernandopaivaec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href = "https://app.rocketseat.com.br/me/fernandopaivaec"><img src="https://img.shields.io/badge/Rocketseat-Blue?style=for-the-badge&logoColor=blue" target="_blank"></a>
 </div>
 
-### Stats
+<!-- ### Stats
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandopaivaec&count_private=true&show_icons=true&theme=dracula" target="_blank"></a> 
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoPaivaEC&layout=compact&langs_count=7&theme=dracula" target="_blank"></a> 
-</div>
+</div> -->
