@@ -2,6 +2,8 @@
 
 ### Hey there, I'm Fernando Paiva 👋
 
+[Feel free to check my blog](https://fernandopaiva.dev/)
+
 <!--
 **FernandoPaivaEC/fernandopaivaec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
