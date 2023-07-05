@@ -9,7 +9,6 @@
 -->
 
 - 🌱 I’m currently learning:
-  - Google Cloud Platform
   - Go Programming Language
   - Echo Fiber Framework
 - 💬 Ask me about
