@@ -9,9 +9,9 @@
 -->
 
 - 🌱 I’m currently learning:
-  - Go Programming Language
-  - Echo Fiber Framework
+  - Go
 - 💬 Ask me about
+  - Go
   - Git
   - Nodejs
   - Javascript
