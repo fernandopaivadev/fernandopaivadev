@@ -1,31 +1,29 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=fernandopaivadev&color=blue)
 
 ### Hey there, I'm Fernando Paiva 👋
 
-[Feel free to check my blog](https://fernandopaiva.dev/)
+[Feel free to check my website](https://fernandopaiva.dev/)
 
 <!--
 **FernandoPaivaEC/fernandopaivaec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - 🌱 I’m currently learning:
-  - Go
+  - IaaS (Terraform)
+  - Kubernetes
 - 💬 Ask me about
   - Go
   - Git
   - Nodejs
   - Javascript
-  - Typescript
   - Arduino
   - Eletronics
   - ESP32 and AVR microcontrollers
-  - Go (golang)
-  - Echo Web Framework
+  - Echo - Go web framework
   - Wails - Go framework for desktop apps
   - NGINX
   - AWS Lambda
   - AWS EC2
-  - Google Cloud Run
 
 ### Languages and Tools
 <p align="left"> 
