@@ -12,18 +12,15 @@
   - IaaS (Terraform)
   - Kubernetes
 - 💬 Ask me about
-  - Go
+  - Golang
   - Git
-  - Nodejs
-  - Javascript
+  - NodeJS
   - Arduino
   - Eletronics
   - ESP32 and AVR microcontrollers
   - Echo - Go web framework
   - Wails - Go framework for desktop apps
   - NGINX
-  - AWS Lambda
-  - AWS EC2
 
 ### Languages and Tools
 <p align="left"> 
